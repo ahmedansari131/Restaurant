@@ -333,7 +333,7 @@ h1 {
 
 #table::before {
     content: '';
-    background: url(/bg/bg5.jpg) no-repeat center center/cover;
+    background: url(../bg/bg5.jpg) no-repeat center center/cover;
     background-color: rgb(255, 255, 255);
     position: absolute;
     top: 55%;
