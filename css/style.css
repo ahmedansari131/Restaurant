@@ -160,7 +160,7 @@ h1 {
     left: 231px;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
-    background: url(./foods/dish5.png) no-repeat center center/100%;
+    background: url(../foods/dish5.png) no-repeat center center/100%;
     border-right: 4px rgb(87, 87, 87) dashed;
     cursor: pointer;
 }
